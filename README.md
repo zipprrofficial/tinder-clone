@@ -1,4 +1,4 @@
-A <a href="https://zipprr.com/category/tinder-clone/">Tinder clone script</a> is a dating app that replicates the swiping and matching features of the popular Tinder app. It allows users to quickly view profiles of other users nearby and swipe right to like or left to pass. When two users like each other, it results in a match so they can start chatting.
+A <a href="https://zipprr.com/tinder-clone/">Tinder clone script</a> is a dating app that replicates the swiping and matching features of the popular Tinder app. It allows users to quickly view profiles of other users nearby and swipe right to like or left to pass. When two users like each other, it results in a match so they can start chatting.
 
 <h2><b>Advanced Features Of Tinder Clone App</b></h2>
 
